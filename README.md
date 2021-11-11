@@ -1,4 +1,4 @@
-# Auto Clone All Peronal/Organizational Repos
+# Auto Clone All Personal/Organizational Repos
 
 ## Author
 Sewen Thy  
