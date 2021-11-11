@@ -1,8 +1,8 @@
 # Auto Clone All Peronal/Organizational Repos
 
 ## Author
-Sewen Thy
-[[mailto:sewenthy@gmail.com][sewenthy@gmail.com]]
+Sewen Thy  
+sewenthy@gmail.com  
 
 ## Description
 Quick and dirty tool for cloning repos from your personal GitHub account or organization.  Needed it when I re-installed my OS.  
