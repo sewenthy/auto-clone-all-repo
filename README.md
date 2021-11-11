@@ -13,11 +13,11 @@ It iterates the repos in the organization/personal page using a GitHub API and t
 
 ## Usage
 
-Positional arguments:
-$1 can be "orgs" or "users"
-$2 can be your username or your organization name
-$3 is your username
-$4 is your token
+Positional arguments:  
+$1 can be "orgs" or "users"  
+$2 can be your username or your organization name  
+$3 is your username  
+$4 is your token  
 
 ### Example:
 ``` bash
