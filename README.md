@@ -22,8 +22,8 @@ $4 is your token
 ### Example:
 ``` bash
 # from personal repo
-$ clone_all_from_org.sh users sewenthy sewenthy <TOKEN>
+$ bash clone_all_from_org.sh users sewenthy sewenthy <TOKEN>
 
 # from organization account repo
-$ clone_all_from_org.sh orgs <ORGNAME> sewenthy <TOKEN>
+$ bash clone_all_from_org.sh orgs <ORGNAME> sewenthy <TOKEN>
 ```
